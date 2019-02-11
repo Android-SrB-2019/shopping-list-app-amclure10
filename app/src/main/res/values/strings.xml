@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Shopping List</string>
+    <string name="add_item_button">Add Grocery Item</string>
+    <string name="item_1">beef</string>
+    <string name="item_2">butter</string>
+    <string name="item_3">pepper</string>
+    <string name="item_4">salt</string>
+    <string name="item_5">apple</string>
+    <string name="item_6">banana</string>
+    <string name="item_7">orange</string>
+    <string name="item_8">rice</string>
+    <string name="item_9">fish</string>
+    <string name="item_10">noodles</string>
 </resources>
